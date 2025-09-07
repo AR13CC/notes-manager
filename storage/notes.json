@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Meeting Notes",
+        "category": "Work",
+        "content": "Discussed project timeline and deliverables. Need to follow up on budget approval by next week."
+    },
+    {
+        "title": "Shopping List",
+        "category": "Personal",
+        "content": "Milk, bread, eggs, apples, chicken breast, olive oil"
+    },
+    {
+        "title": "Book Ideas",
+        "category": "Creative",
+        "content": "Story about time travel paradoxes. Character discovers they can send messages to their past self but only during dreams."
+    },
+    {
+        "title": "Workout Plan",
+        "category": "Health",
+        "content": "Monday: Chest and triceps\nWednesday: Back and biceps\nFriday: Legs and shoulders\nCardio on alternate days"
+    },
+    {
+        "title": "Note Test 1",
+        "category": "Tests",
+        "content": "This is Test 1 Note."
+    }
+]
