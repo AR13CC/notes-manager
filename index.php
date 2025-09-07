@@ -145,7 +145,7 @@ $stats = getNotesStatistics($allNotes);
                             <p class="mb-0">Filtered Results</p>
                         </div>
                         <div class="col-md-3">
-                            <h3><i class="bi bi-percent"></i> <?= $stats['total_notes'] > 0 ? round((count($notes) / $stats['total_notes']) * 100, 1) : 0 ?>%</h3>
+                            <h3><i class="bi bi"></i> <?= $stats['total_notes'] > 0 ? round((count($notes) / $stats['total_notes']) * 100, 1) : 0 ?>%</h3>
                             <p class="mb-0">Match Rate</p>
                         </div>
                     </div>
